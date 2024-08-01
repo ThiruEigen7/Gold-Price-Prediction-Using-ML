@@ -1,0 +1,2 @@
+1)Just install google Collab or login in web
+2)It doesn't need any package or modules to download
